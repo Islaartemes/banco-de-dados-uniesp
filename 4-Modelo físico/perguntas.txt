@@ -1,0 +1,3 @@
+1) Qual a maior quantidade de tipo de assinatura?
+2) Qual o método de pagamento mais utilizado?
+3) Quantos usuarios estão com assinatura ativa?
