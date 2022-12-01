@@ -1,0 +1,9 @@
+3) SELECT que visualizem todos os dados da tabela (SELECT * FROM);
+SELECT* FROM DBO.usuario;
+SELECT* FROM DBO.assinatura; 
+SELECT* FROM DBO.forma_pagamento; 
+SELECT* FROM DBO.avaliacao;
+SELECT* FROM DBO.comentario;
+SELECT* FROM DBO.filme; 
+SELECT* FROM DBO.serie; 
+SELECT* FROM DBO.unidades;
